@@ -38,5 +38,7 @@ Model Evaluation :
 I have done model evaluation based on following sklearn metric.
 
 [Explained Variance Score] (https://en.wikipedia.org/wiki/Explained_variation)
+
 [Mean Squared Error] (https://www.statisticshowto.datasciencecentral.com/mean-squared-error/)
+
 Model score
